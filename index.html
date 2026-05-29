@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Weekly Dashboard</title>
+  <style>
+    body { font-family: Arial; background:#f4f4f4; padding:20px; }
+    .card { background:white; padding:15px; margin:10px; border-radius:10px; }
+  </style>
+</head>
+
+<body>
+
+<h1>Weekly Social Dashboard</h1>
+
+<div class="card">
+  <h3>Followers</h3>
+  <p id="followers"></p>
+</div>
+
+<div class="card">
+  <h3>Reach</h3>
+  <p id="reach"></p>
+</div>
+
+<div class="card">
+  <h3>Engagements</h3>
+  <p id="engagements"></p>
+</div>
+
+<div class="card">
+  <h3>Video Views</h3>
+  <p id="views"></p>
+</div>
+
+<script>
+fetch("data.json")
+  .then(res => res.json())
+  .then(data => {
+    document.getElementById("followers").innerText =
+      data.overall_performance_snapshot.followers;
+
+    document.getElementById("reach").innerText =
+      data.overall_performance_snapshot.reach_impressions;
+
+    document.getElementById("engagements").innerText =
+      data.overall_performance_snapshot.engagements;
+
+    document.getElementById("views").innerText =
+      data.overall_performance_snapshot.video_views;
+  });
+</script>
+
+</body>
+</html>
