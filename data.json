@@ -1,55 +1,174 @@
-Overall Performance Snapshot
-Metric	This Week
-Followers	1.36M (↔)
-Reach / Impressions	11.94M (↑ 76%)
-Engagements	417.61K (↑ 130%)
-Video Views	29.51M (↑ 976%)
-Posts	156
-Key Takeaway
-This week delivered a massive spike in visibility and video consumption, driven primarily by high-performing short-form content and strong audience response on Instagram and YouTube. Engagement momentum improved significantly, showing stronger content resonance compared to previous weeks.
+{
+  "overall_performance_snapshot": {
+    "followers": "1.36M",
+    "followers_trend": "↔",
+    "reach_impressions": "11.94M",
+    "reach_growth": "76%",
+    "engagements": "417.61K",
+    "engagement_growth": "130%",
+    "video_views": "29.51M",
+    "video_views_growth": "976%",
+    "posts": 156,
+    "key_takeaway": "This week delivered a massive spike in visibility and video consumption, driven primarily by high-performing short-form content and strong audience response on Instagram and YouTube. Engagement momentum improved significantly, showing stronger content resonance compared to previous weeks."
+  },
 
-Platform Performance
-Platform	Followers	Impressions / Watch Time	Engagements	Video Views	Posts	Key Insight
-Facebook	554.46K (↔)	4.45M (↑ 71%)	41.23K (↑ 109%)	1.02M (↑ 13%)	28	Strong reach recovery with improved audience interaction across reels
-Instagram	228.67K (↑ 1%)	7.49M (↑ 79%)	313.41K (↑ 93%)	2.26M (↑ 45%)	100	Primary growth driver this week with strong reel performance and engagement lift
-YouTube	2.52K (↓ 252%)	987 days (↓ 4%)	19.06K (↑ 53%)	28.49M (↑ 1452%)	10	Massive view spike indicates strong Shorts/content discovery momentum
-Twitter (X)	8.21K (↔)	6.72K	67	-	16	Posting frequency remains high with limited platform impact
-LinkedIn	39.82K (↔)	6.91K (↑ 29%)	142 (↑ 106%)	-	2	Low-volume posting but improved engagement efficiency
-Competitor Benchmarking
-Brand	Posts	SOV Posts	Reach	SOV Reach	Engagement Rate	Key Takeaway
-Applause Entertainment	46	31.51%	961.61K	2%	5.32%	Strong engagement quality this week; audience resonance improving significantly
-Dharma Productions	56	38.36%	5.47M	10%	6.13%	Continues to drive high engagement through emotion-led, actor-focused content
-YRF	44	30.14%	48.62M	88%	2.68%	Maintains category dominance through massive scale and consistent distribution
-What Applause Should Focus On This Week
-1. Double Down on Character-Led Reels
-Rinku Paaji, Sohrab Handa, and emotionally strong characters continue driving the highest engagement. Lean further into personality-driven edits over plot-heavy storytelling.
+  "platform_performance": [
+    {
+      "platform": "Facebook",
+      "followers": "554.46K",
+      "followers_trend": "↔",
+      "impressions_watch_time": "4.45M",
+      "impressions_growth": "71%",
+      "engagements": "41.23K",
+      "engagements_growth": "109%",
+      "video_views": "1.02M",
+      "video_views_growth": "13%",
+      "posts": 28,
+      "key_insight": "Strong reach recovery with improved audience interaction across reels"
+    },
+    {
+      "platform": "Instagram",
+      "followers": "228.67K",
+      "followers_trend": "↑ 1%",
+      "impressions_watch_time": "7.49M",
+      "impressions_growth": "79%",
+      "engagements": "313.41K",
+      "engagements_growth": "93%",
+      "video_views": "2.26M",
+      "video_views_growth": "45%",
+      "posts": 100,
+      "key_insight": "Primary growth driver this week with strong reel performance and engagement lift"
+    },
+    {
+      "platform": "YouTube",
+      "followers": "2.52K",
+      "followers_trend": "↓ 252%",
+      "impressions_watch_time": "987 days",
+      "impressions_growth": "↓ 4%",
+      "engagements": "19.06K",
+      "engagements_growth": "53%",
+      "video_views": "28.49M",
+      "video_views_growth": "1452%",
+      "posts": 10,
+      "key_insight": "Massive view spike indicates strong Shorts/content discovery momentum"
+    },
+    {
+      "platform": "Twitter (X)",
+      "followers": "8.21K",
+      "followers_trend": "↔",
+      "impressions_watch_time": "6.72K",
+      "engagements": "67",
+      "video_views": null,
+      "posts": 16,
+      "key_insight": "Posting frequency remains high with limited platform impact"
+    },
+    {
+      "platform": "LinkedIn",
+      "followers": "39.82K",
+      "followers_trend": "↔",
+      "impressions_watch_time": "6.91K",
+      "impressions_growth": "29%",
+      "engagements": "142",
+      "engagements_growth": "106%",
+      "video_views": null,
+      "posts": 2,
+      "key_insight": "Low-volume posting but improved engagement efficiency"
+    }
+  ],
 
-2. Prioritise Short-Form Momentum
-Instagram Reels and YouTube Shorts are currently the biggest growth drivers. Focus on fast-cut, high-retention edits with strong first-frame hooks.
+  "competitor_benchmarking": [
+    {
+      "brand": "Applause Entertainment",
+      "posts": 46,
+      "sov_posts": "31.51%",
+      "reach": "961.61K",
+      "sov_reach": "2%",
+      "engagement_rate": "5.32%",
+      "key_takeaway": "Strong engagement quality this week; audience resonance improving significantly"
+    },
+    {
+      "brand": "Dharma Productions",
+      "posts": 56,
+      "sov_posts": "38.36%",
+      "reach": "5.47M",
+      "sov_reach": "10%",
+      "engagement_rate": "6.13%",
+      "key_takeaway": "Continues to drive high engagement through emotion-led, actor-focused content"
+    },
+    {
+      "brand": "YRF",
+      "posts": 44,
+      "sov_posts": "30.14%",
+      "reach": "48.62M",
+      "sov_reach": "88%",
+      "engagement_rate": "2.68%",
+      "key_takeaway": "Maintains category dominance through massive scale and consistent distribution"
+    }
+  ],
 
-3. Convert Reach into Community Interaction
-Views are scaling rapidly, but comment participation can improve further. Add stronger prompts, fan questions, POV hooks, and debate-led captions.
+  "focus_next_week": [
+    "Double Down on Character-Led Reels: Rinku Paaji, Sohrab Handa, and emotionally strong characters driving highest engagement",
+    "Prioritise Short-Form Momentum: Instagram Reels and YouTube Shorts with fast-cut high-retention edits",
+    "Convert Reach into Community Interaction: Stronger prompts, POV hooks, debate-led captions"
+  ],
 
-Trending Opportunities This Week
-Trend	Applause Adaptation
-“Got us on this one…” Scroll-Stopping Trend	Use intense Undekhi scenes with “This scene got us…” suspense edits
-“POV: The bar just got raised…” Meme Format	Romantic Main Vaapas Aaunga moments around relationship expectations
-Melody Chocolate Meme Trend	Nostalgia-led meme adaptation using iconic Applause dialogues
-“What sound does a dinosaur make?” Audio Trend	Contrast comedy edits using serious thriller characters
-1 Key Competitor Move to Watch
-Dharma Productions
-Dharma is currently winning with emotion-first reels that feel organic rather than promotional. Their strongest-performing content focuses on actor chemistry, reactions, and relatable moments instead of narrative exposition, making the content accessible even for non-viewers.
+  "trending_opportunities": [
+    {
+      "trend": "“Got us on this one…” Scroll-Stopping Trend",
+      "adaptation": "Use intense Undekhi scenes with suspense edits"
+    },
+    {
+      "trend": "“POV: The bar just got raised…” Meme Format",
+      "adaptation": "Romantic Main Vaapas Aaunga moments"
+    },
+    {
+      "trend": "Melody Chocolate Meme Trend",
+      "adaptation": "Nostalgia-led meme using Applause dialogues"
+    },
+    {
+      "trend": "“What sound does a dinosaur make?” Audio Trend",
+      "adaptation": "Comedy contrast edits using thriller characters"
+    }
+  ],
 
-Ready-to-Use Content Ideas
-Format	Hook	Suggested IP
-Character POV Reel	“POV: You entered the wrong family meeting”	Undekhi
-Relatable Romance Reel	“In the age of ghosting… this is the love we want”	Main Vaapas Aaunga
-Meme + Dialogue Remix	Viral meme setup → iconic dialogue payoff	Scam 1992
-Split-Screen Contrast Reel	“Expectation vs Reality” storytelling	Undekhi
-Fan Comment Reel	Turn audience comments into visual storytelling	Criminal Justice
-Creative Focus – Next Week
-Push emotionally relatable storytelling over plot exposition
-Use stronger first 2-second hooks for all reels
-Create more meme-adaptable edits using trending audios
-Prioritise character personality moments over dialogue-heavy scenes
-Increase fan interaction through polls, POV captions, and debate hooks
+  "competitor_watch": {
+    "brand": "Dharma Productions",
+    "insight": "Winning with emotion-first reels focusing on actor chemistry, reactions, and relatable moments rather than plot exposition"
+  },
+
+  "content_ideas": [
+    {
+      "format": "Character POV Reel",
+      "hook": "POV: You entered the wrong family meeting",
+      "ip": "Undekhi"
+    },
+    {
+      "format": "Relatable Romance Reel",
+      "hook": "In the age of ghosting… this is the love we want",
+      "ip": "Main Vaapas Aaunga"
+    },
+    {
+      "format": "Meme + Dialogue Remix",
+      "hook": "Viral meme setup → iconic dialogue payoff",
+      "ip": "Scam 1992"
+    },
+    {
+      "format": "Split-Screen Contrast Reel",
+      "hook": "Expectation vs Reality storytelling",
+      "ip": "Undekhi"
+    },
+    {
+      "format": "Fan Comment Reel",
+      "hook": "Turn audience comments into visual storytelling",
+      "ip": "Criminal Justice"
+    }
+  ],
+
+  "creative_focus_next_week": [
+    "Push emotionally relatable storytelling over plot exposition",
+    "Stronger first 2-second hooks for reels",
+    "Meme-adaptable edits using trending audios",
+    "Prioritise character personality moments over dialogue-heavy scenes",
+    "Increase fan interaction through polls, POV captions, and debate hooks"
+  ]
+}
